@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Prince Jain</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
